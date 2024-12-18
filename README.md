@@ -136,10 +136,13 @@ SET total_amount = COALESCE(total_amount, 0);
 -- Track the popularity of specific order items over time and identify seasonal demand spikes.
 ### 20. Rank each city based on the total revenue for last year 2023
 
-
 ## Conclusion
 
 This project highlights my ability to handle complex SQL queries and provides solutions to real-world business problems in the context of a food delivery service like Zomato. The approach taken here demonstrates a structured problem-solving methodology, data manipulation skills, and the ability to derive actionable insights from data.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
 
 ![MySQL](https://img.shields.io/badge/SQL-MySQL-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
