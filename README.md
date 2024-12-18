@@ -1,4 +1,5 @@
-# SQL-Project-Zomato-Data-Analysis
+# SQL-Project-Zomato-Data-Analysis ![image](https://github.com/user-attachments/assets/3199093d-6a86-4992-9a6b-def96d12a34d)
+
 This project showcases my SQL expertise through a comprehensive analysis of Zomato's food delivery business. From database creation to solving complex business problems, this project highlights my ability to extract actionable insights using SQL.
 ![erd](https://github.com/user-attachments/assets/a5d293bd-86a7-4c98-9d1d-db71dd5d7542)
 
