@@ -16,3 +16,6 @@ This project showcases my SQL expertise through a comprehensive analysis of Zoma
 - **riders**: Information about riders and sign-up dates.
 - **orders**: Tracks orders placed by customers, including status and amount.
 - **deliveries**: Delivery details, including rider and status.
+
+![MySQL](https://img.shields.io/badge/SQL-MySQL-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
