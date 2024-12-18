@@ -10,8 +10,9 @@ This project showcases my SQL expertise through a comprehensive analysis of Zoma
 - **Business Problems:** Solving 20 specific business problems using SQL queries.
 
 ## Tables
--- **restaurants**: Information about restaurants (e.g., name, city, opening hours).
--- **customers**: Details of registered customers.
--- **riders**: Information about riders and sign-up dates.
--- **orders**: Tracks orders placed by customers, including status and amount.
--- **deliveries**: Delivery details, including rider and status.
+
+- **restaurants**: Information about restaurants (e.g., name, city, opening hours).
+- **customers**: Details of registered customers.
+- **riders**: Information about riders and sign-up dates.
+- **orders**: Tracks orders placed by customers, including status and amount.
+- **deliveries**: Delivery details, including rider and status.
